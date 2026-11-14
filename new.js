@@ -1,1 +1,6 @@
-console.log("hello");
+function sayHello() {
+  return "hello";
+}
+
+let greeting = sayHello;
+
